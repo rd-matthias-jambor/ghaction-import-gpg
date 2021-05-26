@@ -35,7 +35,7 @@
     "@zeit/ncc": "^0.22.3",
     "jest": "^25.5.4",
     "jest-circus": "^26.6.3",
-    "jest-runtime": "^26.6.3",
+    "jest-runtime": "^27.0.1",
     "prettier": "^2.2.1",
     "removeNPMAbsolutePaths": "^2.0.0",
     "ts-jest": "^25.5.1",
