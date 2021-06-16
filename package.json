@@ -34,7 +34,7 @@
     "@types/openpgp": "^4.4.16",
     "@zeit/ncc": "^0.22.3",
     "jest": "^25.5.4",
-    "jest-circus": "^27.0.3",
+    "jest-circus": "^27.0.4",
     "jest-runtime": "^27.0.4",
     "prettier": "^2.3.0",
     "removeNPMAbsolutePaths": "^2.0.0",
